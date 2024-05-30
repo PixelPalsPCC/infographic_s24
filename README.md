@@ -7,3 +7,5 @@ Jina: <a href="https://jinaryou.github.io/Infographic" target="_blank">https://j
 Eli: <a href="https://fnx-sk8.github.io/infoGraph" target="_blank">https://fnx-sk8.github.io/infoGraph</a><br>
 
 Marcus: <a href="https://marcusleet2.github.io/Infographic_Storytelling" target="_blank">https://marcusleet2.github.io/Infographic_Storytelling</a><br>
+
+Maddy: <a href="https://madleyva.github.io/Interactive_Infographic/" target="_blank">https://madleyva.github.io/Interactive_Infographic/</a><br>
