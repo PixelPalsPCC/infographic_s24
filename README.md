@@ -11,3 +11,5 @@ Marcus: <a href="https://marcusleet2.github.io/Infographic_Storytelling" target=
 Maddy: <a href="https://madleyva.github.io/Interactive_Infographic/" target="_blank">https://madleyva.github.io/Interactive_Infographic/</a><br>
 
 Daniel: https://dannyboy1320.github.io/Infographic/
+
+Giselle: <a href= "https://tlcgiselle.github.io/Infographic-Text/" target="_blank">https://tlcgiselle.github.io/Infographic-Text/</a><br>
