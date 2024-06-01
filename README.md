@@ -13,3 +13,5 @@ Maddy: <a href="https://madleyva.github.io/Interactive_Infographic/" target="_bl
 Daniel: https://dannyboy1320.github.io/Infographic/
 
 Giselle: <a href= "https://tlcgiselle.github.io/Infographic-Text/" target="_blank">https://tlcgiselle.github.io/Infographic-Text/</a><br>
+
+Mariam: <a href= "https://mlora00.github.io/AssignmentThree-Infographic/" target="_blank">https://mlora00.github.io/AssignmentThree-Infographic/</a><br>
