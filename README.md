@@ -19,3 +19,5 @@ Mariam: <a href= "https://mlora00.github.io/AssignmentThree-Infographic/" target
 Erin: <a href="https://erinlxw.github.io/Infographic_Project/" target="_blank">https://erinlxw.github.io/Infographic_Project/</a><br>
 
 Jason: <a href="https://jingchunyang.github.io/airbnb_Infographics/" target="_blank">Airbnb.org Infographics</a><br>
+
+Alicia: <a href="https://aliciaxl.github.io/infographic-storytelling/" target="_blank">https://github.com/aliciaxl/infographic-storytelling</a><br>
