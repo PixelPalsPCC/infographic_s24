@@ -21,3 +21,5 @@ Erin: <a href="https://erinlxw.github.io/Infographic_Project/" target="_blank">h
 Jason: <a href="https://jingchunyang.github.io/airbnb_Infographics/" target="_blank">Airbnb.org Infographics</a><br>
 
 Alicia: <a href="https://aliciaxl.github.io/infographic-storytelling/" target="_blank">Mental Health Infographic</a><br>
+
+Ariel: <a href="[https://ariellang.github.io/Infographic_solar_AL/" target="_blank">ariellang.github.io/Infographic_solar_AL</a><br>
