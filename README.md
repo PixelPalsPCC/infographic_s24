@@ -22,3 +22,4 @@ Alicia: <a href="https://aliciaxl.github.io/infographic-storytelling/" target="_
 
 Ariel: <a href="https://ariellang.github.io/Infographic_solar_AL/" target="_blank">ariellang.github.io/Infographic_solar_AL</a><br>
 
+Zaira: <a href="https://zz-22-t.github.io/Infographic/" target="_blank">https://zz-22-t.github.io/Infographic</a><br>
